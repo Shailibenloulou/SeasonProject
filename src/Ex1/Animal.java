@@ -30,7 +30,7 @@ public abstract class Animal implements Seasonable,Comparable{
     }
 
     public void changeSeason(){
-        
+
     };
 
     @Override
